@@ -1,3 +1,3 @@
 class Appointment
-  att
+  attr_accessor
 end 
